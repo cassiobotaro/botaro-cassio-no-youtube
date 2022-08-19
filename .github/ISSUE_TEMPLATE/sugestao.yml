@@ -3,7 +3,7 @@ description: Sugestão de temas para o canal.
 title: "[Tema]: "
 labels: ["sugestao-tema"]
 assignees:
-  - ocassiobotaro
+  - cassiobotaro
 body:
   - type: markdown
     attributes:
