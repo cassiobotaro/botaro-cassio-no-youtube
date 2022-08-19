@@ -14,8 +14,7 @@ body:
     attributes:
       label: Convidados
       description: Conhece alguém que poderia apresentar o tema?
-      placeholder: ex. email@exemplo.com ou @nomedapessoa
-      multiple: true
+      placeholder: ex. email@exemplo.com ou @nomedapessoa (Coloque os nomes separados por vírgula)
     validations:
       required: false
   - type: textarea
